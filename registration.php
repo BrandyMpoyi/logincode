@@ -60,7 +60,7 @@
             <input type="submit" value="Register" class="btn">
             <input type="reset" value="Reset" class="btn">
         </form>
-        <p>Already a user? <a href="log1.php" style="color: #4CAF50;">Login Here</a></p>
+        <p>Already a user? <a href="/" style="color: #4CAF50;">Login Here</a></p>
     </div>
 </body>
 </html>
