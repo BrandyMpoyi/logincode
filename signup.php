@@ -47,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Execute the prepared statement
     if ($stmt->execute()) {
-        echo "Registration successful! <a href='log1.php'>Login here</a>";
+        echo "Registration successful! <a href='index.php'>Login here</a>";
     } else {
         echo "Registration failed. Please try again later.";
     }
